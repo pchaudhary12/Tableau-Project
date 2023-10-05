@@ -72,7 +72,9 @@ Office Prices
 ## Challenges 
 
 Data not enough.
+
 Issues with creating relations 
+
 Saving work frequently in Tabelau to not lose work
 
 ## Future Goals
