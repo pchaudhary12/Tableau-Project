@@ -19,7 +19,7 @@ We are Working with Tablea to Create Visualizations and performaing EDA.
 
 - Creating Relationships between different Data Tables in Tableau to use it for creating Visualization and dashboards
 
-![Alt text](image.png)
+![Alt text](Relations-1.png)
 
 
 ### Creating Different Worksheets and Dashboard for EDA and Creating Visualization 
@@ -30,7 +30,7 @@ We are Working with Tablea to Create Visualizations and performaing EDA.
 
 ###### Showing Trend For Housing Index Values in last 40 Years
 
-![Alt text](image.png)
+![Alt text](Trend-1.png)
 
 ###### Checking Price Differences between Districts
 
@@ -38,7 +38,7 @@ We have created a Bar Chart to check price difference between different district
 
 There is no relative difference between house prices between districts
 
-![Alt text](image.png)
+![Alt text](<Difference in districts-1.png>)
 
 ###### Comparing Monthly Income with Housing Prices over the Years
 
@@ -46,9 +46,9 @@ We have seen that monthly Income has increased Steadily throughout the Years
 
 House Prices have been Fluctuating over the years caused by different Financial Crisis over the years
 
-![Alt text](image-1.png)
+![Alt text](<Comparing Salary with Housing Price-1.png>)
 
-###### Realtion Between Consumer Index and Housing Price Index
+###### Relation Between Consumer Index and Housing Price Index
 
 Created a Regression Model to find the realtion between Consumer Index and Housing Price Index
 
@@ -56,7 +56,7 @@ As per Model: There is Negative coorrelation between Both variables
 
 As Housing Price Index increases the Consumer Index decreases
 
-![Alt text](image.png)
+![Alt text](<Trend Line -1.png>)
 
 ###### Housing Crisis over the Years
 
@@ -66,7 +66,7 @@ Earnings
 Housing Prices 
 Office Prices
 
-![Alt text](image-1.png)
+![Alt text](Dashboard-1.png)
 
 
 ## Challenges 
